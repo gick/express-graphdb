@@ -1,0 +1,6 @@
+const {executeSelect, executeASK, executeDescribe,executeConstruct, executeInsert}=require('./queryExamples')
+executeSelect()
+executeASK()
+executeDescribe()
+executeConstruct()
+executeInsert()

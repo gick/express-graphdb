@@ -1,0 +1,16 @@
+{
+  "name": "starlight-graphdb",
+  "version": "1.0.0",
+  "description": "A graphDB backend for the Starlight KB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "graphdb": "^2.0.0",
+    "mongodb": "^4.4.1"
+  }
+}
